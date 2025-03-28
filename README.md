@@ -1,6 +1,7 @@
 
-Primero ejecutar el scrip de SQL
-Luego hacer npm install para las dependencias
+Primero ejecutar el scrip de SQL.
+Luego hacer install composer y npm install para las dependencias.
+Por ultimo setear el fichero .env con las credenciales de la base de datos: nombre, root y contraseña vacia
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
